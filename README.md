@@ -113,7 +113,8 @@ add things about you
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Anisul Islam @2021
+All rights reserved by nusrat jahan @2024
+copied from anisul-islam
 
 ---
 
@@ -121,7 +122,7 @@ All rights reserved by Anisul Islam @2021
 
 <!-- Links section starts here -->
 
-[linkedin]: https://www.linkedin.com/in/anisul2020/
+[linkedin]: https://www.linkedin.com/in/nusrat-jahan-rima-901a68293/
 
 
 
