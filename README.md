@@ -113,8 +113,7 @@ add things about you
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by nusrat jahan @2024
-copied from anisul-islam
+
 
 ---
 
