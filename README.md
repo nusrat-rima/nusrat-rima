@@ -16,7 +16,7 @@ A full time student and programer.
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-add things about you
+I am a learner .I am exploring new things.
 </p>
 
 <br />
@@ -26,8 +26,9 @@ add things about you
 
 ### 👨🏽‍💻 &nbsp; My Skills:
 
-- c
-- c++
+- C
+- C++
+- HTML,CSS,Java
 
 
 <br />
