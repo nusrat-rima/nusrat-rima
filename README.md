@@ -110,6 +110,8 @@ I am a learner .I am exploring new things.
 ### 🏅 Honors & Awards :
 
 - certification in c program.
+- certification in java program
+- https://www.sololearn.com/certificates/CC-DKILSIFR
 
 ---
 
